@@ -22,7 +22,7 @@ class MccMncExtractor
      * @var array
      */
     static public $map = [
-        0 => 'mmc',
+        0 => 'mcc',
         1 => 'mnc',
         2 => 'country_iso',
         3 => 'country_name',
