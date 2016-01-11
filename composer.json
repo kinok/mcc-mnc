@@ -1,0 +1,16 @@
+{
+    "name": "kinok/mcc-mnc",
+    "description": "Simple extract mcc-mnc from http://mcc-mnc.com/",
+    "require": {
+        "imangazaliev/didom": "^1.5"
+    },
+    "autoload": {
+        "psr-0": { "": ["src/"] }
+    },
+    "authors": [
+        {
+            "name": "Michael Inthilith",
+            "email": "minthilith@gmail.com"
+        }
+    ]
+}
